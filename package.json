@@ -1,0 +1,11 @@
+{
+  "name": "example-actions",
+  "version": "1.0.0",
+  "description": "Github Actions 만들어보기",
+  "packageManager": "yarn@4.1.1",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
